@@ -73,4 +73,4 @@ git add a c
 
 
 
-![image](https://github.com/sunrain990/knock-git/raw/master/img/git-flow.png)
+![image](https://github.com/sunrain990/knock-git/blob/master/img/git-flow.png)
